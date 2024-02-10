@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Blog
 ---
 Firtly, FI module divided into parts such as General Ledger, Account Receivable, Account Payable, and Asset Accounting. These are the main 4 parts of FI. There are other parts that can be included into FI consultant work environment such as TRM (Treasury and Risk Management, CM (Cash Management), FSCM(Financial Supply Chain Management) and some more. 
 
